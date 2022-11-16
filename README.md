@@ -1,1 +1,1 @@
-# goit-markup-hw-02
+# barbershop-html-css
